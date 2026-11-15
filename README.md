@@ -61,7 +61,7 @@ When I'm not coding, you'll probably find me vlogging in nature or making memori
 
 ## 💼 Experience highlights
 - **Wayfair AI Agent Engineering Externship**: architected a 4-agent pipeline for market intelligence; recognized as a top performer
-- **Tomorrow's Leaders Today (App Development Intern)**: built a mobile portal for 60+ interns with check-in, activity tracking, reminders, and feedback
+- **TLT-Tomorrow's Leaders Today (App Development Intern)**: built a mobile portal for 60+ interns with check-in, activity tracking, reminders, and feedback
 - **UTA PLTL Mentor**: support peer leaders across different majors and teach Calculus III sessions for 25+ students
 
 ## 🤝 Let's connect
@@ -72,7 +72,7 @@ When I'm not coding, you'll find me vlogging in nature or making memories with f
 
 - 💼 [LinkedIn](https://linkedin.com/in/jenisha-subedi9911)
 - 📧 jenishasubedi2k5@gmail.com
-- 🎥 [YouTube / Instagram](ADD-YOUR-LINK)
+- 🎥 [YouTube](www.youtube.com/@JenishaSubedi50)
 
 <div align="center">
 
