@@ -62,7 +62,7 @@ When I'm not coding, you'll probably find me vlogging in nature or making memori
 ## 💼 Experience highlights
 - **Wayfair AI Agent Engineering Externship**: architected a 4-agent pipeline for market intelligence; recognized as a top performer
 - **Tomorrow's Leaders Today (App Development Intern)**: built a mobile portal for 60+ interns with check-in, activity tracking, reminders, and feedback
-- **NASA Space Apps Challenge 2026 (Team Lost in Andromedus)**: data contributor on a team of three, helping build and source a 200-test combustion dataset from NASA public data and published papers
+- **NASA Space Apps Challenge 2026 (Team: Lost in Andromedus)**: data contributor on a team of three, helping build and source a 200-test combustion dataset from NASA public data and published papers
 - **UTA PLTL Mentor**: support peer leaders across different majors and teach Calculus III sessions for 25+ students
 
 ## 🤝 Let's connect
