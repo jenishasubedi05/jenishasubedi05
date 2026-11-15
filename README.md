@@ -48,12 +48,12 @@ When I'm not coding, you'll probably find me vlogging in nature or making memori
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Will It Burn in a Moon Base?**](https://github.com/dakshvk/lost-in-andromedus-flame-in-freefall) | NASA Space Apps 2026 team project: maps 200 real microgravity combustion tests by oxygen and airflow, so every answer shows what was tested and where the evidence stops. I worked on the data side. | Python, FastAPI, JavaScript, NASA data |
 | [**Student Performance Predictor**](LINK) | Predicts final math grades; compares linear regression and random forest | Python, scikit-learn |
 | [**SpecSense**](LINK) | Parses spec, RFP, and contract PDFs; extracts deadlines and risks as structured JSON | FastAPI, JavaScript, Gemini API |
 | [**AI Resume Analyzer**](LINK) | 3-agent workflow for parsing resumes, scoring job match, and writing cover letters | Python, GROQ API |
 | [**PeerTutor**](LINK) | AI-powered tutoring web app | React, Node/Express, Gemini API |
 | [**Student Budgeting App**](LINK) | Team project I led, built from live feedback from UTA students | Team of 5, Agile |
-| [**Ride Share App**](LINK) | Student ride-sharing with real-time GPS and ride status | Java, Firebase |
 
 ## 🌍 Open source contributions
 - **[BreezeML](https://github.com/venomez-viper/breezeml/pull/15)**: fixed a bug where Windows file paths broke exported Python scripts, using `repr()` for safe escaping, and wrote a regression test
@@ -61,7 +61,8 @@ When I'm not coding, you'll probably find me vlogging in nature or making memori
 
 ## 💼 Experience highlights
 - **Wayfair AI Agent Engineering Externship**: architected a 4-agent pipeline for market intelligence; recognized as a top performer
-- **TLT-Tomorrow's Leaders Today (App Development Intern)**: built a mobile portal for 60+ interns with check-in, activity tracking, reminders, and feedback
+- **Tomorrow's Leaders Today (App Development Intern)**: built a mobile portal for 60+ interns with check-in, activity tracking, reminders, and feedback
+- **NASA Space Apps Challenge 2026 (Team Lost in Andromedus)**: data contributor on a team of three, helping build and source a 200-test combustion dataset from NASA public data and published papers
 - **UTA PLTL Mentor**: support peer leaders across different majors and teach Calculus III sessions for 25+ students
 
 ## 🤝 Let's connect
@@ -72,7 +73,7 @@ When I'm not coding, you'll find me vlogging in nature or making memories with f
 
 - 💼 [LinkedIn](https://linkedin.com/in/jenisha-subedi9911)
 - 📧 jenishasubedi2k5@gmail.com
-- 🎥 [YouTube](www.youtube.com/@JenishaSubedi50)
+- 🎥 [YouTube / Instagram](ADD-YOUR-LINK)
 
 <div align="center">
 
