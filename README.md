@@ -4,8 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=CS+senior+at+UT+Arlington+%7C+May+2027;Building+AI+agents+and+data+projects;Open+source+contributor;Seeking+full-time+SWE+%2F+AI-ML+%2F+Data+Science+roles)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenisha-subedi9911)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jxs9911@mavs.uta.edu)
+[![LinkedIn](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=20&duration=1&pause=1000&repeat=false&color=0A66C2&center=true&vCenter=true&width=460&height=32&lines=LinkedIn%3A+linkedin.com%2Fin%2Fjenisha-subedi9911)](https://linkedin.com/in/jenisha-subedi9911)
+
+[![Email](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=20&duration=1&pause=1000&repeat=false&color=D14836&center=true&vCenter=true&width=460&height=32&lines=Email%3A+jenishasubedi2k5%40gmail.com)](mailto:jenishasubedi2k5@gmail.com)
 
 </div>
 
@@ -13,15 +14,19 @@
 
 ## 👩‍💻 About me
 
-I'm a Computer Science senior at **UT Arlington** (graduating May 2027), and I'm looking for a **full-time role in software engineering, AI/ML, or data science**.
+Hello everyone! I'm Jenisha Subedi, a Computer Science senior at the **University of Texas at Arlington**, graduating in May 2027. I'm seeking **software engineering, AI/ML, and data science roles** where I can contribute, learn, and grow.
 
-I came to the U.S. at 18 as the first in my family to study computer science here. I figured out a lot without a roadmap and made plenty of mistakes, so I try to learn something new every day and help the students after me skip some of those struggles. Outside of code, I mentor peer leaders at UTA, am active in SWE, Girls Who Code, and the Nepalese Student Association, and make videos about life in tech.
+I work primarily in Python, JavaScript, Java, and C, and I build projects and contribute to open source to keep strengthening my skills.
+
+As the first in my family to study computer science in the U.S., I know how much it helps to have a community. I try to pay that forward by sharing resources and lessons learned, so the students coming after me can navigate the path with more confidence.
+
+When I'm not coding, you'll probably find me vlogging in nature or making memories with the people I love. 🌿
 
 ## 🔭 What I'm up to
 - 🤖 Building AI agents and full-stack apps
-- 📊 Training and comparing ML models in my Data Mining course
+- 📊 Training and comparing ML models
 - 🌍 Contributing to open source (CodePath AI Open Source Capstone, completed with **Honors**)
-- 🌱 Learning LangGraph, RAG, and agent evaluation
+- 🌱 Learning LangGraph, RAG, agent evaluation, and computer vision
 
 ## 🛠️ Tech stack
 
@@ -59,17 +64,15 @@ I came to the U.S. at 18 as the first in my family to study computer science her
 - **Tomorrow's Leaders Today (App Development Intern)**: built a mobile portal for 60+ interns with check-in, activity tracking, reminders, and feedback
 - **UTA PLTL Mentor**: support peer leaders across different majors and teach Calculus III sessions for 25+ students
 
-## 📈 GitHub stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jenishasubedi05&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenishasubedi05&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 🤝 Let's connect
+
 I'm always happy to talk about AI, open source, or breaking into tech. If you're hiring for full-time software, AI/ML, or data roles, I'd love to chat.
+
+When I'm not coding, you'll find me vlogging in nature or making memories with family and friends. I love sharing my experiences, so come say hi! 🌿🎥
+
+- 💼 [LinkedIn](https://linkedin.com/in/jenisha-subedi9911)
+- 📧 jenishasubedi2k5@gmail.com
+- 🎥 [YouTube / Instagram](ADD-YOUR-LINK)
 
 <div align="center">
 
